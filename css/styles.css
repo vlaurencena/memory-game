@@ -1,0 +1,57 @@
+
+
+
+body {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f6e1e1;
+}
+
+.contenedor {
+  margin-top: 2rem;
+}
+
+.azul {
+  background-color: #0779e4;
+}
+
+.amarillo {
+  background-color: #ffd31d;
+}
+
+.rojo {
+  background-color: #c81912;
+}
+
+.gris {
+    background-color: #5d5d5a;
+}
+
+.verde {
+  background-color: #2b580c;
+}
+
+.negro {
+  background-color: #1b120f;
+}
+
+.naranja {
+  background-color: #ff5200;
+}
+
+.celeste {
+  background-color: #f0134d;
+}
+
+.marron {
+  background-color: #42240c;
+}
+
+.propiedades-div {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: solid;
+  border-width: 2px;
+  border-radius: 10%;
+}
